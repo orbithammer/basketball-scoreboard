@@ -1,6 +1,9 @@
 body {
-    margin: 0;
+    display: block;
+    width: 600px;
+    margin: 0 auto;
     background-color: #1B244A;
+    margin: 0 auto;
 }
 
 .container {
